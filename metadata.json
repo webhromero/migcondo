@@ -1,0 +1,5 @@
+{
+  "name": "Gestión de Condominios Pro",
+  "description": "Una aplicación web integral para la administración y gestión de condominios. Permite a los administradores comunicarse con los residentes, gestionar finanzas y mantener todo organizado en un solo lugar. Incluye una función de IA para ayudar a redactar anuncios.",
+  "requestFramePermissions": []
+}
